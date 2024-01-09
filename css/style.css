@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+section {
+    background-color: #f5f5f5;
+}
+
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.title p {
+    font-family: Roboto;
+}
+
+.main {
+    text-align: center;
+}
+
+.btn {
+    width: 189px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+}
+
+.products-btn {
+    background-color: #6F2CFF;
+    color: #ffffff;
+}
+
+.book-btn{
+    background-color: white;
+    color: #6F2CFF;
+}
+
+
+.cards {
+    width: 100%;
+    text-align: center;
+    
+}
+
+.card {
+    display: block;
+    width: 492.857px;
+    height: 199px;
+    background-color: #17002E;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+
+
+.card-title span {
+    font-family: Roboto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.card-text p {
+    font-size: 15px;
+    font-family: Roboto;
+}
+
+.card-info {
+    width: 428px;
+    height: 109px;
+}
+
